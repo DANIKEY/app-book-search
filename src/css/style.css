@@ -1,0 +1,17 @@
+#results {
+    display: none;
+    width: 228px;
+    border: 1px solid #AAA;
+    border-top-width: 1px;
+    z-index: 20000;
+    background-color: #FFF;
+  }
+  #results div {
+    width: 500px;
+    padding: 2px 4px;
+    text-align: left;
+    border: 0;
+    z-index: 200000;
+    background-color:  #FFF;
+  }
+  
